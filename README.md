@@ -3,7 +3,7 @@ Jamf has limited functionaility for reporting based on advanced searches. This f
 
 This script by default utilizes AWS Secret manager to pull credentials but they can be manually passed in via optional setting.
 
-The script will return the follow fields sent in the email report
+The script will return the following fields sent in the email report:
 Computer_Name, Last_Check_in, Username
 Add more fields if needed but make sure they are also displayed on your advance search or they cannot be pulled via the API.
 
