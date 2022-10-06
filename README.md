@@ -22,7 +22,7 @@ Usage
 
 Edit the script and set your jamf URL in the jamfURL var.
 
-Run set the script as executable:
+Set the script as executable:
 
     $ chmod u+x jamf_adv_search_email.py
   
